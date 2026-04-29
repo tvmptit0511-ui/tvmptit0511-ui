@@ -1,27 +1,48 @@
-# 👋 Hi, I'm Trần Văn Mỹ
+<h1 align="center">👋 Hi, I'm Trần Văn Mỹ</h1>
 
-🚀 Frontend Developer (đang học)
-💡 Quan tâm: Web, UI, React
+<p align="center">
+  🚀 Frontend Developer | React <br/>
+  💡 Passionate about Web & UI
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript
-- React (đang học)
-- Git, GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
 
 ---
 
 ## 📌 Dự án nổi bật
-- 🔧 Project Manager (đang phát triển)
-  👉 https://github.com/tvmptit0511-ui/Project-Manager
+### 🔧 Project Manager
+- Ứng dụng quản lý công việc  
+- 👉 https://github.com/tvmptit0511-ui/Project-Manager
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tvmptit0511-ui&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tvmptit0511-ui&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvmptit0511-ui&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Liên hệ
-- 📱 Zalo: https://zalo.me/0365255070
-- 📧 Email: tvmptit0511@gmail.com
-- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/> Facebook: <a href="https://www.facebook.com/tran.van.my.588043">Trần Văn Mỹ
-</a>
+- 📱 Zalo: https://zalo.me/0365255070  
+- 📧 Email: tvmptit0511@gmail.com  
+- 🔵 Facebook: https://www.facebook.com/tran.van.my.588043
 
+---
+
+## 💬 Quote
+> “Cứ đi rồi sẽ đến. Cứ làm rồi sẽ nên.”
