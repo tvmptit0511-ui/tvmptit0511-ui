@@ -40,7 +40,7 @@
 ## 📫 Liên hệ
 - 📱 Zalo: https://zalo.me/0365255070  
 - 📧 Email: tvmptit0511@gmail.com
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/> Facebook :<a href="https://facebook.com/tran.van.my.588043"></a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/> Facebook :<a href="https://facebook.com/tran.van.my.588043">Trần Văn Mỹ</a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn : ( Đang cập nhật )
 ---
 
