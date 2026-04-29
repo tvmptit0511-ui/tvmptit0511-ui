@@ -41,7 +41,6 @@
 - 📱 Zalo: https://zalo.me/0365255070  
 - 📧 Email: tvmptit0511@gmail.com  
 - 🔵 Facebook: https://www.facebook.com/tran.van.my.588043
-- dsdasdasd
 
 ---
 
