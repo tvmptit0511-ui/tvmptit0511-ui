@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tvmptit0511-ui&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tvmptit0511-ui&show_icons=true&theme=tokyonight"
     height="180"
   />
 
@@ -39,7 +39,7 @@
 ## 📈 Most Used Languages
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvmptit0511-ui&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tvmptit0511-ui&layout=compact&theme=tokyonight"
     height="180"
   />
 </p>
