@@ -30,10 +30,27 @@
   <img width="49%"
     src="https://streak-stats.demolab.com?user=tvmptit0511-ui&theme=tokyonight" />
 </p>
-
+## 📊 GitHub Stats
 <p align="center">
-  <img width="40%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tvmptit0511-ui&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tvmptit0511-ui&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=tvmptit0511-ui&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tvmptit0511-ui&layout=compact&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 ---
