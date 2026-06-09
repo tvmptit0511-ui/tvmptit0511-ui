@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Trần Văn Mỹ</h1>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tvmptit0511-ui&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <p align="center">
   🚀 Frontend Developer | React <br/>
   💡 Passionate about Web & UI
