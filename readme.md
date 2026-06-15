@@ -22,7 +22,7 @@
 
 ```javascript
 const tranVanMy = {
-  role:       "Frontend Developer",
+  role:       "FullStack Developer",
   focus:      ["React", "UI/UX", "Web Performance"],
   learning:   ["TypeScript", "Next.js", "Node.js"],
   passion:    "Building clean, fast, and user-friendly interfaces",
