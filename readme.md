@@ -103,7 +103,7 @@ const tranVanMy = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tvmptit0511-ui&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" height="170" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tvmptit0511-ui&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" height="170" />
 </div>
 
 ---
